@@ -5,3 +5,6 @@
 
 ## (본 수업을 위한) Github 사용법
 https://github.com/youngsangcho/generativedesign2_2021/wiki/Home-:-(%EC%88%98%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C)-%EB%B3%B8-Github-repository-%EC%82%AC%EC%9A%A9%EB%B2%95
+
+## 2주차 강의 / 코드 pdf 자료
+https://github.com/youngsangcho/generativedesign2_2021/tree/main/Week2
